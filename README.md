@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @ferbouzan  
 🎓 **Background:** Bachelor in Social Sciences (UFRJ) & Master in Anthropology  
-💼 **What I do:**I analyze data to uncover audience behavior and trends in entertainment and media, turning insights into strategy. 
+💼 **What I do:** I analyze data to uncover audience behavior and trends in entertainment and media, turning insights into strategy. 
 💻 **Tech stack:** Python, R, SQL, BigQuery, Looker & data visualization  
 📊 **Currently learning:** Advanced data analysis & machine learning  
 📚 **Interests:** Digital anthropology, social insights & media trends  
